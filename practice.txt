@@ -1,0 +1,21 @@
+<table >
+    <tr>
+      <td><img src="2.jpg" alt="Hlo everyone"></td> 
+      </tr>
+
+    <tr>
+        <td><h1>Bikram Maji</h1></td>
+    <td>
+        An enthusiast Engineer fresher with a positive, determined attitude and take difficult challenges<br>
+            whenever it occur to allow my skills to grow for the betterment of the organization and finds the
+            shortest path to resolve any problem.
+    </td>
+   </tr>
+  </table>
+
+ <a href="https://www.linkedin.com/feed/">Linkdin Profile</a>
+      
+        <button class="GFG" 
+        onclick="window.location.href = 'https://www.linkedin.com/feed/';">
+            Click Here
+        </button>
